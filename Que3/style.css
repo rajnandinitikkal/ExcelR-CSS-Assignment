@@ -1,0 +1,17 @@
+.flex-container{
+    display: flex;
+    justify-content: space-around;
+}
+.item{
+    height: 170px;
+    width: 280px;
+    background-color: rgb(224, 224, 224);
+    border-radius: 5px;
+    border: none;
+    margin: 20px;
+    padding: 10px;
+    font-family:sans-serif;
+}
+p{
+    font-weight: bold;
+}

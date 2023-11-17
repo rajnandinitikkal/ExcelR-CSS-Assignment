@@ -1,0 +1,12 @@
+.heading-container{
+    color: blue;
+}
+.intro{
+    font-weight: bold;
+}
+#my-paragraph{
+    font-style: italic;
+}
+.bg{
+    background-color: grey;
+}
