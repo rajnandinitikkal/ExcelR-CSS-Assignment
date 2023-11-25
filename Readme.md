@@ -10,5 +10,9 @@
 ### 4) Write a program to design standard web layout using GRID?
 [Assignment 4](./Que4/index.html)
 
-### 5)	Write a program to create responsive menu using media queries css?
+### 5) Write a program to create responsive menu using media queries css?
 [Assignment 5](./Que5/index.html)
+
+### 6) Write a program to animate a tile in CSS?
+[Assignment 6](./Que6/index.html)
+
