@@ -23,6 +23,14 @@ nav{
     padding: 20px;
     font-size: 17px;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+.nav-image{
+   padding-top: 10px;
+   margin-left: auto;
+   padding-right: 10px;
+   flex-wrap: wrap;
+   -ms-flex-item-align: end;
+   display: none;
+}
 @media screen and (max-width: 768px) {
     .nav-container{
         background-color: rgb(255, 52, 245);
@@ -35,5 +43,17 @@ nav{
         background-color: rgb(211, 211, 211);
         border-radius: 10px;
         padding: 15px;
+    }
+    .nav-items{
+        border:none;
+    }
+}
+@media screen and (max-width: 500px) {
+    .nav-image{
+       display: flex;
+       cursor: pointer;
+    }
+    .nav-items{
+        display: none;
     }
 }
